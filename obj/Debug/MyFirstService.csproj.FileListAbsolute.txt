@@ -1,0 +1,8 @@
+C:\Training\c sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe.config
+C:\Training\c sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.exe
+C:\Training\c sharp\MyFirstService\MyFirstService\bin\Debug\MyFirstService.pdb
+C:\Training\c sharp\MyFirstService\MyFirstService\obj\Debug\MyFirstService.ProjectInstaller.resources
+C:\Training\c sharp\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.GenerateResource.cache
+C:\Training\c sharp\MyFirstService\MyFirstService\obj\Debug\MyFirstService.csproj.CoreCompileInputs.cache
+C:\Training\c sharp\MyFirstService\MyFirstService\obj\Debug\MyFirstService.exe
+C:\Training\c sharp\MyFirstService\MyFirstService\obj\Debug\MyFirstService.pdb
